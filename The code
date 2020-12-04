@@ -1,0 +1,12 @@
+function Kiraspammer() {
+ var Email2 = "kstapleton.26@chufsd.org"
+ var Sbj = "I told you so"
+ var msg = "N E R D"
+ var i =0
+ var qty = 999
+ while(i<qty){
+  }
+}
+
+ 
+ 
